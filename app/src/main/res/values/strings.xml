@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Water Polo Score Keeper</string>
+    <string name="reset">RESET</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="pause">PAUSE</string>
+    <string name="resume">RESUME</string>
+    <string name="time">00:00:00</string>
+    <string name="foul">Foul</string>
+    <string name="point">+1 Points</string>
+    <string name="home">Home</string>
+    <string name="visitor">Visitor</string>
+</resources>
